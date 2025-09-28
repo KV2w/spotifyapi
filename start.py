@@ -1,8 +1,8 @@
 import requests
 
 #Authenticate
-client_id = "7591cc9758f94598a53634c391559828"
-client_secret = "3f35759fd5df415c8f8fad85ce9494e9"
+client_id = ""
+client_secret = ""
 
 url = "https://accounts.spotify.com/api/token"
 
